@@ -1,0 +1,35 @@
+Working on a Data Story
+
+Here, we go over some questions that are helpful to tell a story with data.
+The dataset comes from a volunteered sample of 59946 cases from a dating
+website called OkCupid.
+
+Can you count something interesting?
+  Yes, for each variable such as:  languages and ethnicity, we can make
+  counts for each user. We then can use the counts to make correlations
+  with other variables such as education level or even income.
+  
+Can you find some trends (high, low, increase, decrease, anomalities)?
+  Yes, the users with high-level education tend to earn a higher income.
+  However, users with more than 3 declared ethnicities tend to have
+  other erratic traits such as extremely low/high heights, income, and
+  essays.
+  
+Can you make a bar plot or a histogram?
+  Yes to both. A bar plot will be used to compare independent data such
+  as male vs female users or sexuality of users. A histogram will be
+  used to account for income, height, and age.
+  
+Can you compare two related quantities?
+  Yes. In this case, we will make subgroups. For example, we can group
+  male vs female. We then can subgroup by variables such as body type,
+  income, or even height.
+  
+Can you make a scatterplot?
+  Yes, we can then use the scatterplot to make correlations. We can
+  compare variables such as income level and education. Is it true that
+  better education is related to higher income?
+  
+Can you make a time-series plot?
+  No, we can not. The variable data that are used are not evaluated based
+  on responses collected over time.
